@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Amazon Application]">
+  <test name="SmokeTestSuite(failed)">
+    <classes>
+      <class name="testclasses.Verify_Grid_On_Amazon_HomePage">
+        <methods>
+          <include name="Current_Class_Setup"/>
+          <include name="Verify_LeftPan_Grids"/>
+        </methods>
+      </class> <!-- testclasses.Verify_Grid_On_Amazon_HomePage -->
+    </classes>
+  </test> <!-- SmokeTestSuite(failed) -->
+</suite> <!-- Failed suite [Amazon Application] -->

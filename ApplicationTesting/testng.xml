@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Amazon Application">
+  <test name="SmokeTestSuite">
+    <classes>
+      <class name="testclasses.Verify_Amazon_Login"/>
+      <class name="testclasses.Verify_Grid_On_Amazon_HomePage"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
