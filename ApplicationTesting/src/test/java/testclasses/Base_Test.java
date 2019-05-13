@@ -11,7 +11,7 @@ int a=10;
 	
 @Test
 public boolean test1(){
-	assert.ass
+	
 }
 
 
